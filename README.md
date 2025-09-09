@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SalaReservaWeb (Spring Boot)
 
 Projeto web (Spring REST + JPA + H2) que implementa o back-end do Sistema de Reserva de Salas e integra com o front-end da Etapa 8 (arquivos estáticos em `src/main/resources/static`).
