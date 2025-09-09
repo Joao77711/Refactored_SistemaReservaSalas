@@ -1,0 +1,1 @@
+* e16e266 (HEAD -> main) feat: projeto Spring REST com JPA, H2 e front static
