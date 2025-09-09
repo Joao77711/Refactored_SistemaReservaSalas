@@ -61,4 +61,4 @@ Funcionalidades
 -Status do Projeto
 
  -Em desenvolvimento
->>>>>>> c0c7a9a0e289354a3cb97b2d32cd53d4316a6c1e
+
