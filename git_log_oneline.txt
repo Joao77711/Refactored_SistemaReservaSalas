@@ -1,0 +1,2 @@
+* 21420b2 (HEAD -> main) test: adicionar InMemorySalaDAOTest
+* f653daa chore: adicionar projeto de testes JUnit

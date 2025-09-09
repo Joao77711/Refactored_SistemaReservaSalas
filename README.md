@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SalaReservaWeb (Spring Boot)
 
 Projeto web (Spring REST + JPA + H2) que implementa o back-end do Sistema de Reserva de Salas e integra com o front-end da Etapa 8 (arquivos estáticos em `src/main/resources/static`).
@@ -27,3 +28,38 @@ Inclui:
 ## Observações
 - Banco em memória H2 (config em `application.properties`).
 - CORS liberado nos controllers com `@CrossOrigin` para testes locais.
+=======
+Refactored_SistemaReservaSalas
+
+ Sistema de Reserva de Salas desenvolvido em Java com MySQL.
+
+Funcionalidades
+
+-Login de usuários (com validação no banco de dados).
+
+-Cadastro de salas.
+
+-Cadastro de reservas.
+
+-Consulta de reservas cadastradas.
+
+-Navegação entre telas com botão Voltar.
+
+-Projeto de testes com JUnit (Etapa 7).
+
+-Tecnologias Utilizadas
+
+-Java
+
+-MySQL
+
+-NetBeans
+
+-JUnit
+
+-Git/GitHub
+
+-Status do Projeto
+
+ -Em desenvolvimento
+>>>>>>> c0c7a9a0e289354a3cb97b2d32cd53d4316a6c1e
